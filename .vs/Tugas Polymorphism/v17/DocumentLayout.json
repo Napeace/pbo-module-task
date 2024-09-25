@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\Kuliah\\Semester 3\\Pemrograman Berorientasi Obyek\\Praktikum\\Pertemuan 4\\Tugas Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7830C3A1-5E8A-4603-9C26-088A9B94A193}|Tugas Polymorphism\\Tugas Polymorphism.csproj|c:\\users\\user\\onedrive\\documents\\kuliah\\semester 3\\pemrograman berorientasi obyek\\praktikum\\pertemuan 4\\tugas polymorphism\\tugas polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7830C3A1-5E8A-4603-9C26-088A9B94A193}|Tugas Polymorphism\\Tugas Polymorphism.csproj|solutionrelative:tugas polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Kuliah\\Semester 3\\Pemrograman Berorientasi Obyek\\Praktikum\\Pertemuan 4\\Tugas Polymorphism\\Tugas Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Tugas Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Kuliah\\Semester 3\\Pemrograman Berorientasi Obyek\\Praktikum\\Pertemuan 4\\Tugas Polymorphism\\Tugas Polymorphism\\Program.cs",
+              "RelativeToolTip": "Tugas Polymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:51:39.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+C:\Users\User\OneDrive\Documents\Kuliah\Semester 3\Pemrograman Berorientasi Obyek\Praktikum\Pertemuan 4\Tugas Polymorphism\Tugas Polymorphism\obj\Debug\net8.0\Tugas Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Kuliah\Semester 3\Pemrograman Berorientasi Obyek\Praktikum\Pertemuan 4\Tugas Polymorphism\Tugas Polymorphism\obj\Debug\net8.0\Tugas Polymorphism.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Kuliah\Semester 3\Pemrograman Berorientasi Obyek\Praktikum\Pertemuan 4\Tugas Polymorphism\Tugas Polymorphism\obj\Debug\net8.0\Tugas Polymorphism.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Kuliah\Semester 3\Pemrograman Berorientasi Obyek\Praktikum\Pertemuan 4\Tugas Polymorphism\Tugas Polymorphism\obj\Debug\net8.0\Tugas Polymorphism.csproj.CoreCompileInputs.cache
