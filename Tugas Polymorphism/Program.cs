@@ -32,6 +32,10 @@ class Mamalia : Hewan
     {
         return "Mamalia Bersuara";
     }
+    public override string InfoHewan()
+    {
+        return $"Nama = {Nama}, Umur = {Umur} tahun, Jumlah Kaki = {jumlahKaki}";
+    }
 }
 
 class Reptil : Hewan
@@ -149,5 +153,12 @@ class Program
 
         Console.WriteLine("\nMethod khusus Singa:");
         singa.Mengaum();
+
+        Console.WriteLine("\nMenampilkan informasi lengkap singa");
+        Console.WriteLine(singa.InfoHewan());
+
+        Console.WriteLine("\nBuaya");
+        Reptil reptil = new Buaya("Buaya 2", 6, 4);
+        Console.WriteLine(reptil.Suara());
     }
 }

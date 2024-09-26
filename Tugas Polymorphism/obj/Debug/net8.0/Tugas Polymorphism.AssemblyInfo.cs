@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tugas Polymorphism")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cbe0ae6bdfd3e8a8dcd70f31b84258604692267")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b29c82b8aa9599c31e4c76f6da0a79c88359c62e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tugas Polymorphism")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tugas Polymorphism")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
